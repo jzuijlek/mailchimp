@@ -1,7 +1,7 @@
-mailchimp
+CFML MailChimp API v2.0 wrapper
 =========
 
-CFML MailChimp API v2.0 wrapper
+This is a simple, but effective, wrapper for MailChips REST api v2.0.
 
 Getting Started
 ===============
