@@ -14,6 +14,6 @@ Now you can call any method in the API (http://apidocs.mailchimp.com/api/2.0/) b
 
 	campaign = mailChimp.campaigns_list();
 
-You can also pass in extra paramters
+You can also pass in extra parameters.
 
 	campaign = mailChimp.campaigns_list(filters={status="sent"},sort_field="send_time");
